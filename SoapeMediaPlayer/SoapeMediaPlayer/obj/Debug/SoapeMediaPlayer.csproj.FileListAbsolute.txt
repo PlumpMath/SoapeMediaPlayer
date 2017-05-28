@@ -1,0 +1,14 @@
+c:\users\jonat_000\documents\visual studio 2017\Projects\SoapeMediaPlayer\SoapeMediaPlayer\bin\Debug\SoapeMediaPlayer.exe.config
+c:\users\jonat_000\documents\visual studio 2017\Projects\SoapeMediaPlayer\SoapeMediaPlayer\bin\Debug\SoapeMediaPlayer.exe
+c:\users\jonat_000\documents\visual studio 2017\Projects\SoapeMediaPlayer\SoapeMediaPlayer\bin\Debug\SoapeMediaPlayer.pdb
+c:\users\jonat_000\documents\visual studio 2017\Projects\SoapeMediaPlayer\SoapeMediaPlayer\bin\Debug\Interop.AXVLC.dll
+c:\users\jonat_000\documents\visual studio 2017\Projects\SoapeMediaPlayer\SoapeMediaPlayer\bin\Debug\AxInterop.AXVLC.dll
+c:\users\jonat_000\documents\visual studio 2017\Projects\SoapeMediaPlayer\SoapeMediaPlayer\obj\Debug\SoapeMediaPlayer.csprojResolveAssemblyReference.cache
+c:\users\jonat_000\documents\visual studio 2017\Projects\SoapeMediaPlayer\SoapeMediaPlayer\obj\Debug\Interop.AXVLC.dll
+c:\users\jonat_000\documents\visual studio 2017\Projects\SoapeMediaPlayer\SoapeMediaPlayer\obj\Debug\AxInterop.AXVLC.dll
+c:\users\jonat_000\documents\visual studio 2017\Projects\SoapeMediaPlayer\SoapeMediaPlayer\obj\Debug\SoapeMediaPlayer.csproj.ResolveComReference.cache
+c:\users\jonat_000\documents\visual studio 2017\Projects\SoapeMediaPlayer\SoapeMediaPlayer\obj\Debug\SoapeMediaPlayer.Form1.resources
+c:\users\jonat_000\documents\visual studio 2017\Projects\SoapeMediaPlayer\SoapeMediaPlayer\obj\Debug\SoapeMediaPlayer.Properties.Resources.resources
+c:\users\jonat_000\documents\visual studio 2017\Projects\SoapeMediaPlayer\SoapeMediaPlayer\obj\Debug\SoapeMediaPlayer.csproj.GenerateResource.Cache
+c:\users\jonat_000\documents\visual studio 2017\Projects\SoapeMediaPlayer\SoapeMediaPlayer\obj\Debug\SoapeMediaPlayer.exe
+c:\users\jonat_000\documents\visual studio 2017\Projects\SoapeMediaPlayer\SoapeMediaPlayer\obj\Debug\SoapeMediaPlayer.pdb
